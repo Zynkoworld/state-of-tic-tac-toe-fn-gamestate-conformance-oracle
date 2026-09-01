@@ -1,0 +1,14 @@
+{"input": ["XOO", "X  ", "X  "], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["OXO", " X ", " X "], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["OXX", "OX ", "O  "], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["XXO", " XO", "  O"], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["XXX", "XOO", "O  "], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": [" OO", "O X", "XXX"], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["XX ", "OOO", "X  "], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["XOX", " XX", "OOO"], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["O X", "OX ", "X  "], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["  O", " OX", "OXX"], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["XXX", "XOO", "XOO"], "expect": "win", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["XOX", "XXO", "OXO"], "expect": "draw", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["   ", "X  ", "   "], "expect": "ongoing", "task": "state-of-tic-tac-toe", "lang": "python"}
+{"input": ["O  ", " X ", "   "], "expect": "ongoing", "task": "state-of-tic-tac-toe", "lang": "python"}
